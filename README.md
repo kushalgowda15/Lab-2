@@ -14,9 +14,7 @@ The project also simulates real-world collaboration between **Business Analysts,
 - Apply **machine learning (K-Means clustering)** to classify VIP customers.  
 - Export enriched datasets (reverse ETL) for business use.  
 
----
-
-## 📂 Project Structure  
+--- 
 
 ## 📂 Project Structure
 
@@ -36,7 +34,7 @@ Lab-2/
 ├── DA.py     # Data Analysis tasks (Top products, sentiment)
 ├── ETL.py    # ETL pipeline (Extract → Transform → Load)
 ├── ML.py     # ML pipeline (VIP classification, Reverse ETL)
-```
+``` text
 
 ⚙️ Setup & Requirements
 
