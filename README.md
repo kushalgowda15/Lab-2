@@ -18,7 +18,7 @@ The project also simulates real-world collaboration between **Business Analysts,
 
 ## 📂 Project Structure
 
-```text
+```
 Lab-2/
 ├── raw_data/
 │   ├── sale_price.csv
