@@ -38,9 +38,7 @@ Lab-2/
 
 ## ⚙️ Setup & Requirements  
 Install dependencies:  
-```bash
 pip install pandas matplotlib scikit-learn
-
 
 ## 🔄 Workflow
 
