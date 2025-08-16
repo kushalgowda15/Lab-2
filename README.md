@@ -36,12 +36,6 @@ Lab-2/
 ├── ML.py     # ML pipeline (VIP classification, Reverse ETL)
 ```
 
-
-⚙️ Setup & Requirements
-
-
----
-
 ## ⚙️ Setup & Requirements  
 Install dependencies:  
 ```bash
