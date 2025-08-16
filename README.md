@@ -34,7 +34,7 @@ Lab-2/
 ├── DA.py     # Data Analysis tasks (Top products, sentiment)
 ├── ETL.py    # ETL pipeline (Extract → Transform → Load)
 ├── ML.py     # ML pipeline (VIP classification, Reverse ETL)
-``` text
+text ``` 
 
 ⚙️ Setup & Requirements
 
