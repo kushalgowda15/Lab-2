@@ -18,21 +18,25 @@ The project also simulates real-world collaboration between **Business Analysts,
 
 ## 📂 Project Structure  
 
+## 📂 Project Structure
+
+```text
 Lab-2/
 ├── raw_data/
-│ ├── sale_price.csv
-│ ├── customer_feedback.json
+│   ├── sale_price.csv
+│   ├── customer_feedback.json
 ├── data_warehouse/
-│ ├── processed_sales_data.csv
-│ ├── processed_sales_data_with_vip.csv
-│ ├── processed_sales_data_with_vip.xlsx
-├── images/ # 📸 Plots & screenshots
-│ ├── revenue_chart.png
-│ ├── sentiment_chart.png
-│ ├── vip_table.png
-├── DA.py # Data Analysis tasks (Top products, sentiment)
-├── ETL.py # ETL pipeline (Extract → Transform → Load)
-├── ML.py # ML pipeline (VIP classification, Reverse ETL)
+│   ├── processed_sales_data.csv
+│   ├── processed_sales_data_with_vip.csv
+│   ├── processed_sales_data_with_vip.xlsx
+├── images/   # 📸 Plots & screenshots
+│   ├── revenue_chart.png
+│   ├── sentiment_chart.png
+│   ├── vip_table.png
+├── DA.py     # Data Analysis tasks (Top products, sentiment)
+├── ETL.py    # ETL pipeline (Extract → Transform → Load)
+├── ML.py     # ML pipeline (VIP classification, Reverse ETL)
+
 
 ⚙️ Setup & Requirements
 
