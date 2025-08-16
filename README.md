@@ -109,9 +109,6 @@ This workflow mirrors **real-world data engineering and analytics projects**, sh
 4. Assign VIP label to cluster with higher total purchase.  
 5. Perform **Reverse ETL** → Export enriched data with VIP status.  
 
-📌 **VIP Customer Classification Result**  
-![VIP Clustering](images/vip_clusters.png)
-
 ---
 
 ## 📈 Final Results & Insights
