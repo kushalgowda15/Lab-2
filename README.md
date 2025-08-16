@@ -19,19 +19,23 @@ The project also simulates real-world collaboration between **Business Analysts,
 ## 📂 Project Structure  
 
 Lab-2/
-│── raw_data/                         # Raw, unprocessed data sources
-│   ├── sale_price.csv                # Sales transactions dataset
-│   ├── customer_feedback.json        # Customer reviews & sentiments
+│── raw_data/
+│ ├── sale_price.csv
+│ ├── customer_feedback.json
 │
-│── data_warehouse/                   # Processed datasets (data lake/warehouse)
-│   ├── processed_sales_data.csv      # Cleaned & merged dataset
-│   ├── processed_sales_data_with_vip.csv  # Enriched dataset with VIP tagging
-│   ├── processed_sales_data_with_vip.xlsx
+│── data_warehouse/
+│ ├── processed_sales_data.csv
+│ ├── processed_sales_data_with_vip.csv
+│ ├── processed_sales_data_with_vip.xlsx
 │
-│── DA.py                             # Data Analysis tasks (Top products, sentiment)
-│── ETL.py                            # ETL pipeline (Extract → Transform → Load)
-│── ML.py                             # ML pipeline (VIP classification, Reverse ETL)
-│── Lab-2.docx                        # Documentation / Lab report
+│── images/ # 📷 Plots & screenshots
+│ ├── revenue_chart.png
+│ ├── sentiment_chart.png
+│ ├── vip_table.png
+│
+│── DA.py # Data Analysis tasks (Top products, sentiment)
+│── ETL.py # ETL pipeline (Extract → Transform → Load)
+│── ML.py # ML pipeline (VIP classification, Reverse ETL)
 
 ⚙️ Setup & Requirements
 
